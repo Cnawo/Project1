@@ -17,7 +17,7 @@
 			"args": []
 		},
 		"my-mcp-server-1ba98463": {
-			"url": "@playwright/mcp",
+			"url": "https://@playwright/mcp",
 			"type": "http"
 		}
 	},
